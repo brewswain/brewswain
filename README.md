@@ -1,7 +1,7 @@
-### Hey! I'm Brandon, [check me out here](brewswain.github.io)
+### Hey! I'm Brandon, [check me out here](https://brewswain.github.io)
 
 - 🌱 I’m currently learning Golang with plans for TypeScript soon
-- 🔭 I’m currently working on a [productivity dashboard!](github.com/brewswain/dashboard) should be fun.
+- 🔭 I’m currently working on a [productivity dashboard!](https://github.com/brewswain/dashboard) should be fun.
 
 <!--
 **brewswain/brewswain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
