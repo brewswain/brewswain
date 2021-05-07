@@ -1,8 +1,7 @@
-### Hey! I'm Brandon, [check me out here](https://brewswain.github.io)
+### Hey! I'm Brandon, [a Software Engineer at Zero Grocery](https://zerogrocery.com)
 
-- 🌱 I’m currently learning Golang with plans for TypeScript soon
-- 🔭 I’m currently working on a [productivity dashboard!](https://github.com/brewswain/dashboard) should be fun.
-
+- 💻 I do cool stuff with Next.JS + TypeScript, and Golang!
+- 😔 I...Never did my dashboard
 <!--
 **brewswain/brewswain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
