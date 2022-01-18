@@ -1,7 +1,6 @@
 ### Hey! I'm Brandon, [a Software Engineer at Zero Grocery](https://zerogrocery.com)
 
 - 💻 I do cool stuff with Next.JS + TypeScript, and Golang!
-- 😔 I...Never did my dashboard
 <!--
 **brewswain/brewswain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
