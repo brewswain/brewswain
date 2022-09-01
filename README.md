@@ -1,6 +1,7 @@
 ### Hey! I'm Brandon, a Software Engineer
 
 - 💻 I do cool stuff with Next.JS + TypeScript, and Golang!
+- Currently, I'm working on implementing microservices, so stuff like skaffold, Docker, K8s, NATS streaming etc are all fair game
 <!--
 **brewswain/brewswain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
