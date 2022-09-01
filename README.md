@@ -1,4 +1,4 @@
-### Hey! I'm Brandon, [a Software Engineer at Zero Grocery](https://zerogrocery.com)
+### Hey! I'm Brandon, a Software Engineer
 
 - 💻 I do cool stuff with Next.JS + TypeScript, and Golang!
 <!--
