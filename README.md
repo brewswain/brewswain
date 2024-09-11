@@ -1,18 +1,30 @@
-### Hey! I'm Brandon, a Software Engineer
+# Hello, I'm Brandon 👋
 
-- 💻 I do cool stuff with Next.JS + TypeScript, and Golang!
-- Currently, I'm working on implementing microservices, so stuff like skaffold, Docker, K8s, NATS streaming etc are all fair game
-<!--
-**brewswain/brewswain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack Developer | TypeScript | NextJS | Node.js | Rust Enthusiast
 
-Here are some ideas to get you started:
+I'm a passionate full stack developer with expertise in modern web technologies. My primary focus is on building robust and scalable applications using TypeScript, NextJS, and Node.js. Recently, I've been expanding my skills into Rust and Tauri to broaden my development horizons. Also, I know Python/Django!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm currently working on:
+
+- Developing full-stack web applications with NextJS and Node.js
+- Exploring desktop application development with Tauri and Rust
+- Continuously improving my TypeScript and JavaScript skills
+
+### 💻 Tech Stack:
+
+- Frontend: React, NextJS, TypeScript, HTML, CSS
+- Backend: Node.js, Express, Python, Django, Rust
+- Database: PostgreSQL/Supabase, MongoDB
+- Tools: Git, Docker, Kubernetes, VS Code
+- Learning: Tauri
+
+### 🌱 Current Learning Focus:
+
+I'm diving deep into Rust development and exploring its ecosystem. My current project involves building a desktop application using Tauri (poke-counter repository, pinned below), which combines the power of Rust with web technologies.
+
+### 📫 Let's Connect:
+
+- [LinkedIn](https://www.linkedin.com/in/blee-code/)
+
+Feel free to reach out if you want to collaborate on a project or just chat about tech!
+
