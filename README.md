@@ -1,4 +1,4 @@
-# Hello, I'm Brandon 👋
+# Hey, I'm Brandon 👋
 
 ## Full Stack Developer | TypeScript | NextJS | Node.js | Rust Enthusiast
 
